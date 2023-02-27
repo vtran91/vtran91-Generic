@@ -17,7 +17,7 @@ public class GenericExercise<T> {
     T data;
 
     /**
-     * Set data to 'in'.
+     * Set the variable 'data' to the variable 'in'.
      * @param in an Object that will be of type T at runtime.
      */
     public void loadGenericItem(T in){
